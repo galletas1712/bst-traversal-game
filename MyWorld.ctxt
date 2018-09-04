@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=void\ createTree()
+comment2.params=
+comment2.target=void\ createButtons()
+comment3.params=new_mode
+comment3.target=void\ cancelOldMode(int)
+comment4.params=
+comment4.target=void\ finished()
+comment5.params=
+comment5.target=MyWorld()
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DrawingUtil
+comment1.params=x\ y\ type
+comment1.target=greenfoot.GreenfootImage\ drawNode(int,\ int,\ int)
+comment2.params=type\ text
+comment2.target=greenfoot.GreenfootImage\ drawButton(boolean,\ java.lang.String)
+numComments=3
